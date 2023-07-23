@@ -1,0 +1,10 @@
+.letter{
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    margin-top: 100px;
+    margin-bottom: 200px;
+    width: 50%;
+    color: black;
+    font-size: 1.2em;
+}

@@ -1,0 +1,19 @@
+.box{
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.388);
+    z-index: 1999;
+}
+.table-box{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.box .asset-img{
+    width: 75% !important;
+}
